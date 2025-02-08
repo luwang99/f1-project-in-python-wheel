@@ -1,0 +1,14 @@
+README.md
+setup.py
+my_test_package.egg-info/PKG-INFO
+my_test_package.egg-info/SOURCES.txt
+my_test_package.egg-info/dependency_links.txt
+my_test_package.egg-info/entry_points.txt
+my_test_package.egg-info/requires.txt
+my_test_package.egg-info/top_level.txt
+src/__init__.py
+src/common/__init__.py
+src/common/configuration.py
+src/common/functions.py
+src/ingestion/__init__.py
+src/ingestion/main.py
